@@ -1,0 +1,3 @@
+[submodule "hanging-plotter-simulator"]
+	path = hanging-plotter-simulator
+	url = https://github.com/domoszlai/hanging-plotter-simulator.git
